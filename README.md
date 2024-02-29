@@ -1,6 +1,6 @@
 # al-coe
 
-click to visit website:
+click to visit website:  https://rhumbossss.github.io/al-coe/
 
 <!doctype html>
 <html>
